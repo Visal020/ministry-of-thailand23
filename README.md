@@ -213,7 +213,7 @@ window.__h82AlnkH6D91__("WyJwdWItNzE5MzM5ODQ3OTI0MTY4OSIsW251bGwsbnVsbCxudWxsLCJ
 </tr>
 <tr> 
 <td colspan="2"> 
-<h1>___ List of Ministries of the Kingdom of Thailand</h1>
+<h1>___ Thailand hacked by ERROR 303</h1>
 <h3>List of links to Thailand's National Government Agencies and Ministries.</h3>The Cabinet Ministries of Thailand are the government agencies comprising the executive branch of the Government of Thailand. Each ministry is headed by a Minister of State and eventually, several Deputy Ministers. <br>The combined heads of these agencies form the Cabinet of Thailand. The Cabinet comprises in beginning 2011 of: 21 Ministers of State, 3 Deputy Prime Ministers and 11 Deputy Ministers.<br><br>
 </td> 
 </tr><tr><td align="center" width="503"><br><img src="/flags/thailand_flag.gif" width="82" height="54" alt="Thai National Flag"><br>Thai National Flag</td><td align="center" width="346"><img src="/seal/Thai-Garuda-90px.jpg" width="90" height="96" alt="Thai  Emblem Garuda"><br>The National Emblem  of Thailand is the Garuda, a mythical half-bird half-human figure, it is the king of the birds and  the steed of the Hindu god Vishnu.</td></tr>
